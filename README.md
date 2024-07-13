@@ -178,7 +178,7 @@ npm start
 <p align="center">
   
 ### 🚀 USAR 𝗯𝗼𝗱𝘆𝘀𝘂𝗶𝘁_𝗯𝗼𝘁 24/7 EN TERMUX 
-> Ejecutar estos comandos dentro de la carpeta KatashiBot-MD
+> Ejecutar estos comandos dentro de la carpeta bodysuit-destructor-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ``` 
