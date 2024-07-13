@@ -1,5 +1,5 @@
 # **🔗🔥`𝐃𝐄𝐒𝐓𝐑𝐔𝐂𝐓𝐎𝐑 𝐁𝐎𝐃𝐘𝐒𝐔𝐈𝐓 𝟐.𝟎`🔥**
-## 🔗nuevas atualizaciones en tres meses en los archivos tendrá inteligencia artificial y será súper rápido duración en mantenimiento 3 semanas el bot estará cerrado si presentan fallas es por qué está en soporte.
+## 🔗💀bot activo destruye grupos con solo enviar el link los traba y los envía a soporte💀
 > <b>🚀 VERSIÓN 3.6</b>
 <p align="center"> 
 <a href="https://github.com/Incongnito45/Bodysuit_Bot-elite"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=bodysuit-Bot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
