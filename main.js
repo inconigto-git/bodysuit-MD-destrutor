@@ -1,10 +1,11 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +923070051625
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+///base by incongnito-git(body-Bot Inc.)
+//YouTube:incongnito-git
+//Instagram: alextym-400
+//Telegram:@HackerUniversee
+//GitHub: @incongnito-git
+//WhatsApp: ++573157265488
+//want more free bot scripts? subscribe to my youtube channel:
+
 
 require('./settings')
 const pino = require('pino')
