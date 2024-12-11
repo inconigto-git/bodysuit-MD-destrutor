@@ -71,7 +71,7 @@
  href="https://www.facebook.com/profile.php?id=100021974774712"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 <a href="https://chat.whatsapp.com/K2MTrL7GNEh5LrxZ2cCTZ0"/>
-<img src="https://img.shields.io/badge/🐈_body_soporte_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/💫⭐Universe-hacking🎩25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <p align="center">   
 <a href="https://github.com/Incongnito45/Bodysuit_Bot-elite/pulse"><img title="Forks" src="https://img.shields.io/github/forks/KatashiFukushima/bodysuitBot-MD?label=Forks&color=blue&style=flat-square"></a>
