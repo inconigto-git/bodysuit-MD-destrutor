@@ -26,7 +26,7 @@
 <a href="https://wa.me/593995421898"><img title="Author" src="https://img.shields.io/badge/programador Bot MD-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
  <p align="center">
-<a href="https://wa.me/524775446972"><img title="Author" src="https://img.shields.io/badge/diseñador publico 2.0-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://wa.me/584241836217"><img title="Author" src="https://img.shields.io/badge/diseñador publico 2.0-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
 <a href="https://wa.me/+5492616557673"><img title="Author" src="https://img.shields.io/badge/representante de la administración-black?style=for-the-badge&logo=whatsApp"></a>
