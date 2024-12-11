@@ -70,7 +70,7 @@
 <a
  href="https://www.facebook.com/profile.php?id=100021974774712"/>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-<a href="https://chat.whatsapp.com/IEUeNpdmLSmBxBMuAufTHz"/>
+<a href="https://chat.whatsapp.com/K2MTrL7GNEh5LrxZ2cCTZ0"/>
 <img src="https://img.shields.io/badge/🐈_body_soporte_🌐-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <p align="center">   
