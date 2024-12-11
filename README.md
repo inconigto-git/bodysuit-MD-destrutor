@@ -244,7 +244,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ## License
 
 MIT © bodysuit destructor 500 voltios MD Project<br/>
-Original Creator - [proyecto de WhatsApp](https://chat.whatsapp.com/BeQ8l8wSfPq6lW7WKaFe4z)
+Original Creator - [proyecto de WhatsApp](https://whatsapp.com/channel/0029VafGGoG6rsQnsXTlnK1k)
 
 
 
